@@ -1,0 +1,34 @@
+_repo: Funny-Little-SocksBeing-the-Fourth-Book_29595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barrow, Sarah L.
+    aliases:
+    - Barrow, S. L. (Sarah L.)
+    - Aunt Fanny's daughter
+    gutenberg_agent_id: '34018'
+    url: http://www.gutenberg.org/2009/agents/34018
+description: ''
+gutenberg_issued: '2009-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wit and humor, Juvenile'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children''s poetry'
+tableOfContents: Little mother -- Dolls at housekeeping -- The fairy wish.
+title: 'Funny Little Socks
+
+  Being the Fourth Book'
+url: http://www.gutenberg.org/ebooks/29595
